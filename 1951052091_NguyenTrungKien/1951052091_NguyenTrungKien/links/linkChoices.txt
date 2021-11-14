@@ -1,0 +1,10 @@
+images/choices/choice.png
+images/choices/choice.png
+images/choices/choice.png
+images/choices/choice.png
+images/choices/backround.png
+images/choices/vietnam.png
+images/choices/aboutUsFrame.png
+images/choices/helpFrame.png
+images/choices/ou.png
+images/choices/stone.png

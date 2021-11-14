@@ -1,0 +1,8 @@
+images/rank/rankBackround.png
+images/rank/golden.png
+images/rank/silver.png
+images/rank/bronze.png
+images/rank/frame.png
+images/rank/pen.png
+images/rank/name.png
+images/rank/back.png

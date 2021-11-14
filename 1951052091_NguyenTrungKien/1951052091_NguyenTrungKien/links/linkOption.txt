@@ -1,0 +1,6 @@
+images/option/background.png
+images/option/background1.png
+images/option/level.png
+images/option/mode.png
+images/option/back.png
+images/option/root.png

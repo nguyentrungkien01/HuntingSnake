@@ -1,0 +1,15 @@
+images/stones/stone1.png
+images/stones/stone1.png
+images/stones/stone1.png
+images/stones/stone1.png
+images/stones/stone2.png
+images/stones/stone3.png
+images/stones/stone3.png
+images/stones/stone4.png
+images/stones/stone4.png
+images/stones/stone5.png
+images/stones/stone5.png
+images/stones/stone6.png
+images/stones/tempStone.png
+images/stones/tempStone.png
+images/stones/tempStone.png

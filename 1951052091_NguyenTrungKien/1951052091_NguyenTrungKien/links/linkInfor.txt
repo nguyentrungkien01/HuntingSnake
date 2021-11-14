@@ -1,0 +1,2 @@
+images/infor/background.png
+images/infor/frame.png

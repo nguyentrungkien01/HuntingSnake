@@ -1,0 +1,4 @@
+images/namePlayer/background.png
+images/namePlayer/frame1.png
+images/namePlayer/frame2.png
+images/namePlayer/frame1.png

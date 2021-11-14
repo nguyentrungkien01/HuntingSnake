@@ -1,0 +1,13 @@
+images/stuffDecorate/stuff1.png
+images/stuffDecorate/stuff2.png
+images/stuffDecorate/stuff3.png
+images/stuffDecorate/stuff4.png
+images/stuffDecorate/stuff5.png
+images/stuffDecorate/stuff6.png
+images/stuffDecorate/stuff7.png
+images/stuffDecorate/stuff8.png
+images/stuffDecorate/stuff9.png
+images/stuffDecorate/stuff10.png
+images/stuffDecorate/stuff11.png
+images/stuffDecorate/stuff12.png
+images/stuffDecorate/stuff13.png

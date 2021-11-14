@@ -1,0 +1,6 @@
+images/scoreFrame/scoreFrame.png
+images/scoreFrame/scoreFrame.png
+images/scoreFrame/scoreFrame.png
+images/scoreFrame/snake1.png
+images/scoreFrame/snake2.png
+images/scoreFrame/vs.png

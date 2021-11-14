@@ -1,0 +1,5 @@
+images/snakes/snake1.png
+images/snakes/snake2.png
+images/snakes/snake3.png
+images/snakes/snake4.png
+images/snakes/snake5.png

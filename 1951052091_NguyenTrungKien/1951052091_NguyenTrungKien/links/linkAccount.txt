@@ -1,0 +1,13 @@
+images/account/BackgroundLogin.png
+images/account/frameLogIn.png
+images/account/usernameLogin.png
+images/account/passwordLogin.png
+images/account/loginBackground.png
+images/account/BackgroundRegistration.png
+images/account/frameRegistration.png
+images/account/registrationBackground.png
+images/account/registrationBackground.png
+images/account/registrationBackground.png
+images/account/point.png
+images/account/point.png
+images/account/back.png

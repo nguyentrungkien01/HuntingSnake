@@ -1,0 +1,4 @@
+images/help/background.png
+images/help/frame.png
+images/help/pen.png
+images/help/back.png
